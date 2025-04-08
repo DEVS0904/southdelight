@@ -76,7 +76,7 @@ const About = () => {
                   </svg>
                 </div>
               </div>
-              <h3 className="text-xl font-bold text-amber-800 mb-2">Chef Ramesh Dev savaliya</h3>
+              <h3 className="text-xl font-bold text-amber-800 mb-2">Chef Dev savaliya</h3>
               <p className="text-amber-600 mb-4">Founder & Head Chef</p>
               <p className="text-amber-700">
                 With over 15 years of experience in South Indian cuisine, Chef Ramesh brings authentic
